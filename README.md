@@ -1,28 +1,57 @@
-<h1 align="center">Hi 👋, I'm Ravi</h1>
-<h3 align="center">A passionate Frontend Software Engineer</h3>
+# Hi, I'm Ravi Patel 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi-2k&label=Profile%20views&color=0e75b6&style=flat" alt="ravi-2k" /> </p>
+## 👨‍💻 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravi-2k" alt="ravi-2k" /></a> </p>
+- 💻 4+ years of professional experience in frontend engineering
+- ⚛️ Specialized in React and React Native development
+- 🚀 Experienced in building scalable web and mobile applications
+- ⚡ Focused on frontend performance, architecture, and user experience
+- 🧩 Experienced in reusable component and abstraction design
+- 🔌 Worked with API integrations, asynchronous workflows, and WebSockets
+- 🤖 Exploring AI-assisted software development with Claude Code and Augment Code
+- 🧠 Solved 900+ Data Structures & Algorithms problems
+- 🏆 Recognized as a Top Performer at Tekion for 3 consecutive years
 
-- 🌱 I’m currently learning **NodeJs, ExpressJs, MongoDB, Docker, AWS**
+---
 
-- 👨‍💻 All of my projects are available at [https://ravipatel-dev.vercel.app/](https://ravipatel-dev.vercel.app/)
+## 🛠️ Tech Stack
 
-- 📫 How to reach me **ravi299patel@gmail.com**
+### Languages
+JavaScript · C · C++
 
-- 📄 Know about my experiences [https://ravipatel-dev.vercel.app/](https://ravipatel-dev.vercel.app/)
+### Frontend
+React · React Native · Redux · HTML5 · CSS3
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/baaziga97290056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="baaziga97290056" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ravi-patel-4794b117a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi-patel-4794b117a" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bazigar2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bazigar2k" height="30" width="40" /></a>
-</p>
+### Architecture & Integration
+Frontend Architecture · Component-Based Architecture · API Integration · Asynchronous Programming · WebSockets
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### Testing & Performance
+Jest · Unit Testing · React Profiler · Performance Optimization
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi-2k&show_icons=true&locale=en&layout=compact" alt="ravi-2k" /></p>
+### Tools
+Git · GitHub · GitLab · Bitbucket · Webpack · Jira · Postman · VS Code
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravi-2k&show_icons=true&locale=en" alt="ravi-2k" /></p>
+### AI-Assisted Development
+Claude Code · Augment Code
+
+---
+
+## 🚀 What I Work On
+
+- Building scalable React and React Native applications
+- Designing reusable frontend architectures and abstractions
+- Optimizing application performance and rendering efficiency
+- Developing cross-platform web and mobile workflows
+- Improving developer productivity through AI-assisted engineering
+
+---
+
+## 🌐 Connect With Me
+
+- **Portfolio:** [ravipatel-dev.vercel.app](https://ravipatel-dev.vercel.app/)
+- **LinkedIn:** [Ravi Patel](https://www.linkedin.com/in/ravi-patel-4794b117/)
+- **GitHub:** [Ravi Patel](https://github.com/)
+
+---
+
+⭐ Thanks for visiting my profile!

@@ -52,3 +52,4 @@ Frontend Architecture · Reusable Component Design · API Integration · WebSock
 - 🌐 Portfolio: [ravipatel-dev.vercel.app](https://ravipatel-dev.vercel.app/)
 - 💼 LinkedIn: [linkedin.com/in/ravi-patel-4794b117](https://www.linkedin.com/in/ravi-patel-4794b117/)
 - 🐙 GitHub: [@ravi-2k](https://github.com/ravi-2k)
+

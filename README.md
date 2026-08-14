@@ -14,23 +14,23 @@
 ---
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 🟨 JavaScript · 🔵 C · 🔷 C++
 
-### ⚛️ Frontend
-⚛️ React · ⚛️ React Native · 🔄 Redux · 🌐 HTML5 · 🎨 CSS3
+### Frontend
+⚛️ React  · ⚛️ React Native  · 🔄 Redux  · 🌐 HTML5  · 🎨 CSS3
 
-### 🏗️ Architecture & Integration
-🏛️ Frontend Architecture · 🧩 Component-Based Architecture · 🔗 API Integration · ⚡ Asynchronous Programming · 🔌 WebSockets
+### Architecture & Integration
+🏛️ Frontend Architecture  · 🧩 Component-Based Architecture  · 🔗 API Integration  · ⚡ Asynchronous Programming  · 🔌 WebSockets
 
-### 🧪 Testing & Performance
-🃏 Jest · ✅ Unit Testing · 📊 React Profiler · ⚡ Performance Optimization
+### Testing & Performance
+🃏 Jest  · ✅ Unit Testing  · 📊 React Profiler  · ⚡ Performance Optimization
 
-### 🔧 Tools
-🔀 Git · 🐙 GitHub · 🦊 GitLab · 🪣 Bitbucket · 📦 Webpack · 📋 Jira · 🚀 Postman · 💻 VS Code
+### Tools
+🔀 Git  · 🐙 GitHub  · 🦊 GitLab  · 🪣 Bitbucket  · 📦 Webpack  · 📋 Jira  · 🚀 Postman  · 💻 VS Code
 
-### 🤖 AI-Assisted Development
-🤖 Claude Code · ✨ Augment Code
+### AI-Assisted Development
+🤖 Claude Code  · ✨ Augment Code
 ---
 ## 🚀 What I Work On
 

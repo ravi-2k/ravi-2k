@@ -1,6 +1,4 @@
-# Hi, I'm Ravi Patel 👋
-
-## 👨‍💻 About Me
+# Hi, I'm Ravi 👋
 
 - 💻 4+ years of professional experience in frontend engineering
 - ⚛️ Specialized in React and React Native development
@@ -31,6 +29,7 @@
 
 ### AI-Assisted Development
 🤖 Claude Code  · ✨ Augment Code
+
 ---
 ## 🚀 What I Work On
 
@@ -42,8 +41,8 @@
 ---
 ## 🌐 Connect With Me
 
-- 🌐 **Portfolio:** [ravipatel-dev.vercel.app](https://ravipatel-dev.vercel.app/)
-- 💼 **LinkedIn:** [Ravi Patel](https://www.linkedin.com/in/ravi-patel-4794b117/)
+- 🌐 **Portfolio:** [ravipatel-dev](https://ravipatel-dev.vercel.app/)
+- 💼 **LinkedIn:** [ravi-patel-4794b117](https://www.linkedin.com/in/ravi-patel-4794b117/)
 - 🐙 **GitHub:** [Ravi Patel](https://github.com/)
 ---
 ⭐ Thanks for visiting my profile!

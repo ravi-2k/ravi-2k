@@ -1,6 +1,6 @@
 # Hi, I'm Ravi 👋
 
-* 💻 4+ years of professional experience in software engineering
+* 💻 4.5+ years of professional experience in software engineering
 * ⚛️ Specialized in React and React Native development
 * 🚀 Experienced in building scalable full-stack web and mobile applications
 * 🧩 Skilled in designing reusable components, abstractions, and scalable architectures
@@ -18,7 +18,7 @@
 
 ### Languages
 
-🟨 JavaScript · 🔵 C · 🔷 C++
+🟨 JavaScript · 🔷 TypeScript · 🔵 C · 🔷 C++
 
 ### Frontend
 
